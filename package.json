@@ -1,0 +1,29 @@
+{
+  "name": "pemilu",
+  "version": "1.0.0",
+  "description": "election survey tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amapas/pemilu.git"
+  },
+  "keywords": [
+    "pemilu",
+    "election"
+  ],
+  "author": "amapa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amapas/pemilu/issues"
+  },
+  "homepage": "https://github.com/amapas/pemilu#readme",
+  "dependencies": {
+    "cubitt":"^1.0.3",
+    "salaks":"^1.0.0",
+    "guessdc":"^1.0.0",
+    "matchax":"^1.0.1"
+  }
+}
